@@ -1,0 +1,1989 @@
+{
+	"file_history":
+	[
+		"/home/rafee/Downloads/s085j3gmh9/package.json",
+		"/mnt/F/Wallpapers/randomwallpaper@iflow.space/8rfb5cdrrdwd1.png.json",
+		"/mnt/D/LINUX_BACKUP/Downloads/zoom_window.py",
+		"/home/rafee/.config/fastfetch/config.jsonc",
+		"/home/rafee/Documents/CS Primer/server.py",
+		"/home/rafee/Documents/Python/shout.py",
+		"/home/rafee/Documents/Python/server.py",
+		"/home/rafee/Downloads/Telegram Desktop/forwardInterpolation.py",
+		"/home/rafee/Documents/OS Lab/bankersAlgo.cpp",
+		"/home/rafee/Documents/OS Lab/PR.cpp",
+		"/home/rafee/Documents/OS Lab/RR.cpp",
+		"/home/rafee/Documents/Java/practice.java",
+		"/home/rafee/Documents/OS Lab/FIFO.cpp",
+		"/home/rafee/Documents/OS Lab/Optimal.cpp",
+		"/home/rafee/Documents/OS Lab/LRU.cpp",
+		"/home/rafee/Documents/OS Lab/SJF.cpp",
+		"/home/rafee/Downloads/Telegram Desktop/3rd Year 1st Semester/OOP_Java/OOP_Concept/src/main/java/com/shajib/oop_concept/InterfaceEx.java",
+		"/home/rafee/Documents/OS Lab/bankers.cpp",
+		"/home/rafee/Documents/Web Practice/JS/Lab Final/avg.js",
+		"/home/rafee/Documents/Web Practice/JS/Lab Final/formatter.js",
+		"/home/rafee/Documents/Web Practice/JS/Lab Final/quickSort.js",
+		"/home/rafee/Downloads/Telegram Desktop/3rd Year 1st Semester/OOP_Java/OOP/src/main/java/com/shajib/oop/OOP.java",
+		"/home/rafee/Documents/OS Lab/FCFS_1.c",
+		"/home/rafee/Documents/OS Lab/sjf.cpp",
+		"/home/rafee/Documents/OS Lab/FCFS.cpp",
+		"/home/rafee/Documents/Web Practice/JS/for_loop.js",
+		"/home/rafee/.config/sublime-text/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/rafee/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/home/rafee/.config/sublime-text/Packages/User/hello-snippet.sublime-snippet",
+		"/home/rafee/Documents/ct.xsd",
+		"/home/rafee/Documents/ct.xml",
+		"/opt/lampp/htdocs/index.php",
+		"/home/rafee/Documents/Java/javaFX/PassKeep/src/passkeep/Main.java",
+		"/home/rafee/Documents/Java/javaFX/qalkulator/src/main/java/com/rafee/DatabaseHandler.java",
+		"/home/rafee/Documents/Web Practice/JSON/3.json",
+		"/home/rafee/Documents/Java/javaFX/ui_with_stored_procedure/src/main/java/com/rafee/Main.java",
+		"/home/rafee/Documents/newton.py",
+		"/home/rafee/Desktop/web ct/PHP Lab Sample/index.php",
+		"/home/rafee/Documents/Java/javaFX/BroCode/hellofx/src/main/java/com/rafee/Main.java",
+		"/home/rafee/Documents/Java/demo/src/main/java/com/example/App.java",
+		"/home/rafee/Documents/Java/mssqltestconnect/src/main/java/com/rafee/Database.java",
+		"/home/rafee/Documents/Web Practice/XML/3.xml",
+		"/home/rafee/Documents/Web Practice/XML/2.xml",
+		"/home/rafee/Documents/Web Practice/XML/1.xsd",
+		"/home/rafee/Documents/Web Practice/XML/1.xml",
+		"/home/rafee/Documents/Web Practice/XML/XML_assignment1.xml",
+		"/home/rafee/Documents/Python/client.py",
+		"/home/rafee/Documents/web",
+		"/home/rafee/Downloads/Match.json",
+		"/home/rafee/Documents/Python/sockets.py",
+		"/home/rafee/Documents/Python/socket.py",
+		"/home/rafee/Documents/SW Lab/adapter.java",
+		"/home/rafee/Documents/SW Lab/bridge.java",
+		"/home/rafee/Documents/SW Lab/facade.java",
+		"/home/rafee/Documents/SW Lab/composite.java",
+		"/home/rafee/Documents/SW Lab/flyweight.java",
+		"/home/rafee/Documents/SW Lab/proxy.java",
+		"/home/rafee/Documents/SW Lab/flyweight",
+		"/home/rafee/Documents/Java/bridge.java",
+		"/home/rafee/Documents/Java/Main.java",
+		"/home/rafee/Documents/Java/loginApp/LoginApp.java",
+		"/home/rafee/Documents/Java/Main.class",
+		"/home/rafee/Documents/Java/GeanyTrial/Main.java",
+		"/home/rafee/Documents/Java/GeanyTrial/User.java",
+		"/home/rafee/Documents/Java/GeanyTrial/New.java",
+		"/home/rafee/Documents/Java/GeanyTrail/test/Department.java",
+		"/home/rafee/Documents/Java/GeanyTrail/Main.java",
+		"/home/rafee/Documents/Java/GeanyTrail/Department.java",
+		"/home/rafee/Documents/Java/GeanyTrail/Student.java",
+		"/home/rafee/.config/sublime-text/Packages/User/Java.sublime-build",
+		"/home/rafee/Documents/Java/Four.java",
+		"/home/rafee/Documents/Python/rockPaperScissors.py",
+		"/home/rafee/Documents/Python/guessingGame1.py",
+		"/home/rafee/Documents/Python/reverseWordOrder.py",
+		"/home/rafee/Documents/Python/passwordGenerator.py",
+		"/home/rafee/Documents/Python/guessingGame2.py",
+		"/home/rafee/Downloads/Telegram Desktop/DS Lab All Codes__Spring24-25/Final Term Codes/Singly__LinkedList__Insertion__Deletion.cpp",
+		"/home/rafee/Documents/DSA_Rasel.cpp",
+		"/home/rafee/Downloads/Telegram Desktop/DS Lab All Codes__Spring24-25/Final Term Codes/InfixToPrefix.cpp",
+		"/home/rafee/Documents/Rasel.cpp",
+		"/home/rafee/Downloads/Telegram Desktop/DS Lab All Codes__Spring24-25/Final Term Codes/AdjMatrixUndirectedGraph.cpp",
+		"/home/rafee/Documents/img.py",
+		"/home/rafee/.config/rofi/powermenu.rasi",
+		"/home/rafee/Downloads/ctf_challenge_files/run.sh",
+		"/home/rafee/Documents/img.python",
+		"/home/rafee/Documents/Website/index.html",
+		"/home/rafee/Documents/Website/index.js",
+		"/home/rafee/Documents/HTML/form.html",
+		"/home/rafee/Documents/HTML/CV.html",
+		"/home/rafee/Documents/Website/style.css",
+		"/home/rafee/Documents/argon-icon-theme-1.11.0/scripts/symlink-tool.py",
+		"/home/rafee/Documents/HTML/New Folder/form.html",
+		"/home/rafee/.config/sublime-text/Packages/LiveServerPlus/LiveServerPlus.sublime-settings",
+		"/home/rafee/.config/sublime-text/Packages/User/LiveServerPlus.sublime-settings",
+		"/home/rafee/.config/sublime-text/Packages/LiveServer/LiveServer.sublime-settings",
+		"/home/rafee/.config/sublime-text/Packages/User/LiveServer.sublime-settings",
+		"/home/rafee/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/rafee/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/rafee/.config/sublime-text/Packages/User/HTML.sublime-settings",
+		"/home/rafee/Documents/HTML/New Folder/index.html",
+		"/home/rafee/Documents/HTML/lab1.html",
+		"/home/rafee/Documents/HTML/stat.htm",
+		"/home/rafee/Documents/HTML/stat_style.css",
+		"/home/rafee/Documents/HTML/CE22003/heli.html",
+		"/home/rafee/Documents/HTML/animate1.html",
+		"/home/rafee/Documents/HTML/animate3.css",
+		"/home/rafee/Documents/HTML/animate2.css",
+		"/home/rafee/Documents/HTML/heli.html",
+		"/home/rafee/Documents/HTML/animate1.css",
+		"/home/rafee/Documents/HTML/traffic.html",
+		"/home/rafee/Documents/SW Lab/HW1.java",
+		"/home/rafee/Documents/SW Lab/Lab1.java",
+		"/home/rafee/Documents/SW Lab/AbstractFact.java",
+		"/home/rafee/Documents/HTML/index2.html",
+		"/home/rafee/Documents/HTML/styles.css",
+		"/home/rafee/Documents/HTML/form2.html",
+		"/home/rafee/Documents/HTML/table.html",
+		"/home/rafee/.config/polybar/config.ini",
+		"/home/rafee/Documents/assignment.cpp",
+		"/home/rafee/Documents/HTML/cv.html",
+		"/home/rafee/Documents/HTML/index.html",
+		"/home/rafee/Documents/HTML/about.html",
+		"/home/rafee/Documents/HTML/skills.html",
+		"/home/rafee/Documents/HTML/projects.html",
+		"/home/rafee/Documents/HTML/experience.html",
+		"/home/rafee/Documents/HTML/education.html",
+		"/home/rafee/Downloads/xor/encryption.py",
+		"/home/rafee/.mozilla/firefox/1ufva9xr.default-release/user.js"
+	],
+	"folder_history":
+	[
+		"/home/rafee/Documents/Java/GeanyTrail",
+		"/home/rafee/Documents/Java/GeanyTrial",
+		"/home/rafee/Documents/Website",
+		"/home/rafee/Documents/HTML/New Folder",
+		"/home/rafee/Downloads/Telegram Desktop/abstract",
+		"/home/rafee/Downloads/Telegram Desktop",
+		"/home/rafee/Documents/hello"
+	],
+	"last_version": 4200,
+	"last_window_id": 42,
+	"log_indexing": false,
+	"next_update_check": 1754974567,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 0.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			686.0,
+			64.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pa",
+						"package"
+					],
+					[
+						"infi",
+						"infixToPrefix"
+					],
+					[
+						"di",
+						"DisplayCityAdjacencyMatrix"
+					],
+					[
+						"que",
+						"queList"
+					],
+					[
+						"newn",
+						"newNode"
+					],
+					[
+						"new",
+						"newName"
+					],
+					[
+						"ne",
+						"next"
+					],
+					[
+						"ios",
+						"iostream"
+					],
+					[
+						"wo",
+						"word"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"print",
+						"println()"
+					],
+					[
+						"nextI",
+						"nextInt()"
+					],
+					[
+						"tr",
+						"true"
+					],
+					[
+						"goto",
+						"GOTOINSTRUCTION"
+					],
+					[
+						"scanner",
+						"SCANNER"
+					],
+					[
+						"Scanne",
+						"SCANNER"
+					],
+					[
+						"sy",
+						"System"
+					],
+					[
+						"avg",
+						"avg2"
+					],
+					[
+						"stud",
+						"stud1"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Java.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/C++ - Terminus.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Java.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/C++ - Terminus.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/C++ - Terminus.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Java.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Java.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Java.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Java.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Java.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Java.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Python - Terminus.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Python - Terminus.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Python - Terminus.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/python_terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/python_terminus.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Automatic"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Run (with args)..."
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Check"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Test (with args)..."
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Bench"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Document"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Clippy"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Script"
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/ShellScript/ShellScript.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Java.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/ShellScript/ShellScript.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Snippet: ",
+						"Snippet: For Loop"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"termin",
+						"Terminus: Open Default Shell in Panel"
+					],
+					[
+						"terminus",
+						"Terminus: Open Default Shell in Panel"
+					],
+					[
+						"auto",
+						"Toggle AutoSave: all files"
+					],
+					[
+						"live",
+						"Live Server Plus: Start"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"live s",
+						"Live Server Plus: Start"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"live server",
+						"Live Server: Start"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"live ",
+						"Live Server Plus: Stop"
+					],
+					[
+						"start",
+						"Live Server Plus: Start"
+					],
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"live st",
+						"Live Server Plus: Start"
+					],
+					[
+						"live stop",
+						"Live Server Plus: Stop"
+					],
+					[
+						"live se",
+						"Live Server Plus: Stop"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 190.0,
+				"history":
+				[
+					"exit",
+					"echo 'rafe'",
+					"terminus"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/rafee/Documents/CS Primer/server-UDP.py",
+				"/home/rafee/Documents/CS Primer/server-TCP.py",
+				"/home/rafee/Downloads/s085j3gmh9/package.json",
+				"/mnt/F/Wallpapers/randomwallpaper@iflow.space/8rfb5cdrrdwd1.png.json",
+				"/mnt/D/LINUX_BACKUP/Downloads/zoom_window.py",
+				"/home/rafee/.config/fastfetch/config.jsonc",
+				"/home/rafee/Documents/CS Primer/server.py",
+				"/home/rafee/Documents/Python/shout.py",
+				"/home/rafee/Documents/Python/server.py",
+				"/home/rafee/Downloads/Telegram Desktop/forwardInterpolation.py",
+				"/home/rafee/Documents/OS Lab/bankersAlgo.cpp",
+				"/home/rafee/Documents/OS Lab/PR.cpp",
+				"/home/rafee/Documents/OS Lab/RR.cpp",
+				"/home/rafee/Documents/Java/practice.java",
+				"/home/rafee/Documents/OS Lab/FIFO.cpp",
+				"/home/rafee/Documents/OS Lab/Optimal.cpp",
+				"/home/rafee/Documents/OS Lab/LRU.cpp",
+				"/home/rafee/Documents/OS Lab/SJF.cpp",
+				"/home/rafee/Downloads/Telegram Desktop/3rd Year 1st Semester/OOP_Java/OOP_Concept/src/main/java/com/shajib/oop_concept/InterfaceEx.java",
+				"/home/rafee/Documents/OS Lab/bankers.cpp",
+				"/home/rafee/Documents/Web Practice/JS/Lab Final/avg.js",
+				"/home/rafee/Documents/Web Practice/JS/Lab Final/formatter.js",
+				"/home/rafee/Documents/Web Practice/JS/Lab Final/quickSort.js",
+				"/home/rafee/Downloads/Telegram Desktop/3rd Year 1st Semester/OOP_Java/OOP/src/main/java/com/shajib/oop/OOP.java",
+				"/home/rafee/Documents/OS Lab/FCFS_1.c",
+				"/home/rafee/Documents/OS Lab/sjf.cpp",
+				"/home/rafee/Documents/OS Lab/FCFS.cpp",
+				"/home/rafee/Documents/Web Practice/JS/for_loop.js",
+				"/home/rafee/.config/sublime-text/Packages/User/hello-snippet.sublime-snippet",
+				"/home/rafee/Documents/ct.xsd",
+				"/home/rafee/Documents/ct.xml",
+				"/opt/lampp/htdocs/index.php",
+				"/home/rafee/Documents/Java/javaFX/PassKeep/src/passkeep/Main.java",
+				"/home/rafee/Documents/Java/javaFX/qalkulator/src/main/java/com/rafee/DatabaseHandler.java",
+				"/home/rafee/Documents/Web Practice/JSON/3.json",
+				"/home/rafee/Documents/Java/javaFX/ui_with_stored_procedure/src/main/java/com/rafee/Main.java",
+				"/home/rafee/Documents/newton.py",
+				"/home/rafee/Desktop/web ct/PHP Lab Sample/index.php",
+				"/home/rafee/Documents/Java/javaFX/BroCode/hellofx/src/main/java/com/rafee/Main.java",
+				"/home/rafee/Documents/Java/demo/src/main/java/com/example/App.java",
+				"/home/rafee/Documents/Java/mssqltestconnect/src/main/java/com/rafee/Database.java",
+				"/home/rafee/Documents/Web Practice/XML/3.xml",
+				"/home/rafee/Documents/Web Practice/XML/2.xml",
+				"/home/rafee/Documents/Web Practice/XML/1.xsd",
+				"/home/rafee/Documents/Web Practice/XML/1.xml",
+				"/home/rafee/Documents/Web Practice/XML/XML_assignment1.xml",
+				"/home/rafee/Documents/Python/client.py",
+				"/home/rafee/Documents/web",
+				"/home/rafee/Downloads/Match.json",
+				"/home/rafee/Documents/Python/sockets.py",
+				"/home/rafee/Documents/Python/socket.py",
+				"/home/rafee/Documents/SW Lab/adapter.java",
+				"/home/rafee/Documents/SW Lab/bridge.java",
+				"/home/rafee/Documents/SW Lab/facade.java",
+				"/home/rafee/Documents/SW Lab/composite.java",
+				"/home/rafee/Documents/SW Lab/flyweight.java",
+				"/home/rafee/Documents/SW Lab/proxy.java",
+				"/home/rafee/Documents/SW Lab/flyweight",
+				"/home/rafee/Documents/Java/bridge.java",
+				"/home/rafee/Documents/Java/Main.java",
+				"/home/rafee/Documents/Java/loginApp/LoginApp.java",
+				"/home/rafee/Documents/Java/Main.class",
+				"/home/rafee/Documents/Java/GeanyTrial/Main.java",
+				"/home/rafee/Documents/Java/GeanyTrial/User.java",
+				"/home/rafee/Documents/Java/GeanyTrial/New.java",
+				"/home/rafee/Documents/Java/Four.java",
+				"/home/rafee/Documents/Python/rockPaperScissors.py",
+				"/home/rafee/Documents/Python/guessingGame1.py",
+				"/home/rafee/Documents/Python/reverseWordOrder.py",
+				"/home/rafee/Documents/Python/passwordGenerator.py",
+				"/home/rafee/Documents/Python/guessingGame2.py",
+				"/home/rafee/Downloads/Telegram Desktop/DS Lab All Codes__Spring24-25/Final Term Codes/Singly__LinkedList__Insertion__Deletion.cpp",
+				"/home/rafee/Documents/DSA_Rasel.cpp",
+				"/home/rafee/Downloads/Telegram Desktop/DS Lab All Codes__Spring24-25/Final Term Codes/InfixToPrefix.cpp",
+				"/home/rafee/Documents/Rasel.cpp",
+				"/home/rafee/Downloads/Telegram Desktop/DS Lab All Codes__Spring24-25/Final Term Codes/AdjMatrixUndirectedGraph.cpp",
+				"/home/rafee/Documents/img.py",
+				"/home/rafee/.config/rofi/powermenu.rasi",
+				"/home/rafee/Downloads/ctf_challenge_files/run.sh",
+				"/home/rafee/Documents/img.python",
+				"/home/rafee/Documents/Website/index.html",
+				"/home/rafee/Documents/Website/index.js",
+				"/home/rafee/Documents/HTML/form.html",
+				"/home/rafee/Documents/HTML/CV.html",
+				"/home/rafee/Documents/Website/style.css",
+				"/home/rafee/Documents/argon-icon-theme-1.11.0/scripts/symlink-tool.py",
+				"/home/rafee/Documents/HTML/New Folder/form.html",
+				"/home/rafee/Documents/HTML/New Folder/index.html",
+				"/home/rafee/Documents/HTML/lab1.html",
+				"/home/rafee/Documents/HTML/stat.htm",
+				"/home/rafee/Documents/HTML/stat_style.css",
+				"/home/rafee/Documents/HTML/CE22003/heli.html",
+				"/home/rafee/Documents/HTML/animate1.html",
+				"/home/rafee/Documents/HTML/animate3.css",
+				"/home/rafee/Documents/HTML/animate2.css",
+				"/home/rafee/Documents/HTML/heli.html",
+				"/home/rafee/Documents/HTML/animate1.css",
+				"/home/rafee/Documents/HTML/traffic.html",
+				"/home/rafee/Documents/SW Lab/HW1.java",
+				"/home/rafee/Documents/SW Lab/Lab1.java",
+				"/home/rafee/Documents/SW Lab/AbstractFact.java",
+				"/home/rafee/Documents/HTML/index2.html",
+				"/home/rafee/Documents/HTML/styles.css",
+				"/home/rafee/Documents/HTML/form2.html",
+				"/home/rafee/Documents/HTML/table.html",
+				"/home/rafee/.config/polybar/config.ini",
+				"/home/rafee/Documents/assignment.cpp",
+				"/home/rafee/Documents/HTML/cv.html",
+				"/home/rafee/Documents/HTML/index.html",
+				"/home/rafee/Documents/HTML/about.html",
+				"/home/rafee/Documents/HTML/skills.html",
+				"/home/rafee/Documents/HTML/projects.html",
+				"/home/rafee/Documents/HTML/experience.html",
+				"/home/rafee/Documents/HTML/education.html",
+				"/home/rafee/Downloads/xor/encryption.py",
+				"/home/rafee/.mozilla/firefox/1ufva9xr.default-release/user.js",
+				"/home/rafee/Downloads/Zero Hidden Knight/pass.txt",
+				"/home/rafee/Downloads/stego_text.txt",
+				"/home/rafee/Downloads/prac.py",
+				"/home/rafee/Documents/Java/One.java",
+				"/home/rafee/Documents/Java/Two.java",
+				"/home/rafee/Documents/one.java",
+				"/home/rafee/.config/sublime-text/Packages/User/Python - Terminus.sublime-build",
+				"/home/rafee/.config/sublime-text/Packages/User/Java.sublime-build",
+				"/home/rafee/Documents/HTML/1.html",
+				"/home/rafee/Downloads/jpg_repair.py",
+				"/home/rafee/Downloads/advanced-potion-making",
+				"/home/rafee/Downloads/fixme1/src/main.rs"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"String",
+					"playerChoice",
+					"int"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.LiveServerPlus":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.Terminus":
+			{
+				"height": 165.0,
+				"history":
+				[
+				]
+			},
+			"output.Terminus 2":
+			{
+				"height": 186.0,
+				"history":
+				[
+				]
+			},
+			"output.Terminus 3":
+			{
+				"height": 186.0,
+				"history":
+				[
+				]
+			},
+			"output.Terminus 4":
+			{
+				"height": 186.0
+			},
+			"output.Terminus 5":
+			{
+				"height": 186.0
+			},
+			"output.exec":
+			{
+				"height": 186.0,
+				"history":
+				[
+					"a"
+				]
+			},
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pa",
+						"package"
+					],
+					[
+						"infi",
+						"infixToPrefix"
+					],
+					[
+						"di",
+						"DisplayCityAdjacencyMatrix"
+					],
+					[
+						"que",
+						"queList"
+					],
+					[
+						"newn",
+						"newNode"
+					],
+					[
+						"new",
+						"newName"
+					],
+					[
+						"ne",
+						"next"
+					],
+					[
+						"ios",
+						"iostream"
+					],
+					[
+						"wo",
+						"word"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"print",
+						"println()"
+					],
+					[
+						"nextI",
+						"nextInt()"
+					],
+					[
+						"tr",
+						"true"
+					],
+					[
+						"goto",
+						"GOTOINSTRUCTION"
+					],
+					[
+						"scanner",
+						"SCANNER"
+					],
+					[
+						"Scanne",
+						"SCANNER"
+					],
+					[
+						"sy",
+						"System"
+					],
+					[
+						"avg",
+						"avg2"
+					],
+					[
+						"stud",
+						"stud1"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "Package Control Messages\n========================\n\n\nPackage Control\n---------------\n\n  Version 4.2.0 Release Notes\n  ===========================\n  \n  IMPORTANT NOTICE!\n  \n    This is the last version with support for ST3.\n  \n  NEW DEFAULT CHANNEL\n  \n    Package Control is using the following new default channel by default:\n  \n          https://packages.sublimetext.io/channel.json\n  \n    Any request to https://packagecontrol.io/channel_v3.json is redirected.\n  \n    To discover packages online, visit\n  \n          https://packages.sublimetext.io\n  \n    New packages and libraries are published daily at 0:00 UTC.\n  \n    Dedicated libraries channel is still available, but its content is merged\n    into new default channel and thus doesn't need to be specified explicitly.\n  \n    This change is required as packagecontrol.io is more or less unmaintained\n    for several years, didn't even receive related Package Control 4 updates,\n    suffered various even long lasting outages and its infrastructure seems to\n    struggle with current amount of packages and data needed to be managed,\n    which results in packages frequently not being available for install or\n    upgrade. As current community doesn't have access to its infrastructure.\n  \n    The new crawler works way more efficient and uses a more intelligent\n    caching strategy to reduce network bandwidth. Full downloads are only\n    made if packages or libraries have been added or modified really changed.\n  \n    There's still some work to do to consolidate new infrastructure,\n    which this change is a first and important step, for.\n  \n    The new crawler and website are maintained under:\n  \n          https://github.com/packagecontrol\n",
+					"settings":
+					{
+						"buffer_size": 1705,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "Package Control Messages\n========================\n\n\nPackage Control\n---------------\n\n  Version 4.2.0 Release Notes\n  ===========================\n  \n  IMPORTANT NOTICE!\n  \n    This is the last version with support for ST3.\n  \n  NEW DEFAULT CHANNEL\n  \n    Package Control is using the following new default channel by default:\n  \n          https://packages.sublimetext.io/channel.json\n  \n    Any request to https://packagecontrol.io/channel_v3.json is redirected.\n  \n    To discover packages online, visit\n  \n          https://packages.sublimetext.io\n  \n    New packages and libraries are published daily at 0:00 UTC.\n  \n    Dedicated libraries channel is still available, but its content is merged\n    into new default channel and thus doesn't need to be specified explicitly.\n  \n    This change is required as packagecontrol.io is more or less unmaintained\n    for several years, didn't even receive related Package Control 4 updates,\n    suffered various even long lasting outages and its infrastructure seems to\n    struggle with current amount of packages and data needed to be managed,\n    which results in packages frequently not being available for install or\n    upgrade. As current community doesn't have access to its infrastructure.\n  \n    The new crawler works way more efficient and uses a more intelligent\n    caching strategy to reduce network bandwidth. Full downloads are only\n    made if packages or libraries have been added or modified really changed.\n  \n    There's still some work to do to consolidate new infrastructure,\n    which this change is a first and important step, for.\n  \n    The new crawler and website are maintained under:\n  \n          https://github.com/packagecontrol\n"
+							},
+							"XQAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAFMAAAAAAAAAAAAAAFMAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABVAAAAAAAAAAAAAABVAAAAAAAAAHIAAAAAAAAAAAAAAHIAAAAAAAAAcwAAAAAAAAAAAAAAcwAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJEAAAAAAAAAAAAAAJEAAAAAAAAAkwAAAAAAAAAAAAAAkwAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAKcAAAAAAAAAAAAAAKcAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACqAAAAAAAAAAAAAACqAAAAAAAAAKsAAAAAAAAAAAAAAKsAAAAAAAAA3QAAAAAAAAAAAAAA3QAAAAAAAADeAAAAAAAAAAAAAADeAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA4QAAAAAAAAAAAAAA4QAAAAAAAAD2AAAAAAAAAAAAAAD2AAAAAAAAAPcAAAAAAAAAAAAAAPcAAAAAAAAA+QAAAAAAAAAAAAAA+QAAAAAAAAD6AAAAAAAAAAAAAAD6AAAAAAAAAEQBAAAAAAAAAAAAAEQBAAAAAAAARQEAAAAAAAAAAAAARQEAAAAAAABHAQAAAAAAAAAAAABHAQAAAAAAAEgBAAAAAAAAAAAAAEgBAAAAAAAAfgEAAAAAAAAAAAAAfgEAAAAAAAB/AQAAAAAAAAAAAAB/AQAAAAAAAIEBAAAAAAAAAAAAAIEBAAAAAAAAggEAAAAAAAAAAAAAggEAAAAAAADNAQAAAAAAAAAAAADNAQAAAAAAAM4BAAAAAAAAAAAAAM4BAAAAAAAA0AEAAAAAAAAAAAAA0AEAAAAAAADRAQAAAAAAAAAAAADRAQAAAAAAAPcBAAAAAAAAAAAAAPcBAAAAAAAA+AEAAAAAAAAAAAAA+AEAAAAAAAD6AQAAAAAAAAAAAAD6AQAAAAAAAPsBAAAAAAAAAAAAAPsBAAAAAAAAJAIAAAAAAAAAAAAAJAIAAAAAAAAlAgAAAAAAAAAAAAAlAgAAAAAAACcCAAAAAAAAAAAAACcCAAAAAAAAKAIAAAAAAAAAAAAAKAIAAAAAAABnAgAAAAAAAAAAAABnAgAAAAAAAGgCAAAAAAAAAAAAAGgCAAAAAAAAagIAAAAAAAAAAAAAagIAAAAAAABrAgAAAAAAAAAAAABrAgAAAAAAALgCAAAAAAAAAAAAALgCAAAAAAAAuQIAAAAAAAAAAAAAuQIAAAAAAAAHAwAAAAAAAAAAAAAHAwAAAAAAAAgDAAAAAAAAAAAAAAgDAAAAAAAACgMAAAAAAAAAAAAACgMAAAAAAAALAwAAAAAAAAAAAAALAwAAAAAAAFgDAAAAAAAAAAAAAFgDAAAAAAAAWQMAAAAAAAAAAAAAWQMAAAAAAACmAwAAAAAAAAAAAACmAwAAAAAAAKcDAAAAAAAAAAAAAKcDAAAAAAAA9QMAAAAAAAAAAAAA9QMAAAAAAAD2AwAAAAAAAAAAAAD2AwAAAAAAAEEEAAAAAAAAAAAAAEEEAAAAAAAAQgQAAAAAAAAAAAAAQgQAAAAAAACNBAAAAAAAAAAAAACNBAAAAAAAAI4EAAAAAAAAAAAAAI4EAAAAAAAA2gQAAAAAAAAAAAAA2gQAAAAAAADbBAAAAAAAAAAAAADbBAAAAAAAAN0EAAAAAAAAAAAAAN0EAAAAAAAA3gQAAAAAAAAAAAAA3gQAAAAAAAAmBQAAAAAAAAAAAAAmBQAAAAAAACcFAAAAAAAAAAAAACcFAAAAAAAAcAUAAAAAAAAAAAAAcAUAAAAAAABxBQAAAAAAAAAAAABxBQAAAAAAAL4FAAAAAAAAAAAAAL4FAAAAAAAAvwUAAAAAAAAAAAAAvwUAAAAAAADBBQAAAAAAAAAAAADBBQAAAAAAAMIFAAAAAAAAAAAAAMIFAAAAAAAABgYAAAAAAAAAAAAABgYAAAAAAAAHBgAAAAAAAAAAAAAHBgAAAAAAAEAGAAAAAAAAAAAAAEAGAAAAAAAAQQYAAAAAAAAAAAAAQQYAAAAAAABDBgAAAAAAAAAAAABDBgAAAAAAAEQGAAAAAAAAAAAAAEQGAAAAAAAAeQYAAAAAAAAAAAAAeQYAAAAAAAB6BgAAAAAAAAAAAAB6BgAAAAAAAHwGAAAAAAAAAAAAAHwGAAAAAAAAfQYAAAAAAAAAAAAAfQYAAAAAAACoBgAAAAAAAAAAAACoBgAAAAAAAKkGAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				},
+				{
+					"file": "/home/rafee/Documents/CS Primer/server-TCP.py",
+					"settings":
+					{
+						"buffer_size": 302,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/rafee/Documents/CS Primer/server-UDP.py",
+					"settings":
+					{
+						"buffer_size": 289,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/User/Python - Terminus.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Java.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/C++ - Terminus.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Java.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/C++ - Terminus.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/C++ - Terminus.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Java.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Java.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Java.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Java.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Java.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Java.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Python - Terminus.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Python - Terminus.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Python - Terminus.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/python_terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/python_terminus.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Automatic"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Run (with args)..."
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Check"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Test (with args)..."
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Bench"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Document"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Clippy"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Script"
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/ShellScript/ShellScript.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++ - Terminus.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Java.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python - Terminus.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/ShellScript/ShellScript.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Snippet: ",
+						"Snippet: For Loop"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"termin",
+						"Terminus: Open Default Shell in Panel"
+					],
+					[
+						"terminus",
+						"Terminus: Open Default Shell in Panel"
+					],
+					[
+						"auto",
+						"Toggle AutoSave: all files"
+					],
+					[
+						"live",
+						"Live Server Plus: Start"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"live s",
+						"Live Server Plus: Start"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"live server",
+						"Live Server: Start"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"live ",
+						"Live Server Plus: Stop"
+					],
+					[
+						"start",
+						"Live Server Plus: Start"
+					],
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"live st",
+						"Live Server Plus: Start"
+					],
+					[
+						"live stop",
+						"Live Server Plus: Stop"
+					],
+					[
+						"live se",
+						"Live Server Plus: Stop"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 190.0,
+				"history":
+				[
+					"exit",
+					"echo 'rafe'",
+					"terminus"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/rafee/Downloads/s085j3gmh9/package.json",
+				"/mnt/F/Wallpapers/randomwallpaper@iflow.space/8rfb5cdrrdwd1.png.json",
+				"/mnt/D/LINUX_BACKUP/Downloads/zoom_window.py",
+				"/home/rafee/.config/fastfetch/config.jsonc",
+				"/home/rafee/Documents/CS Primer/server.py",
+				"/home/rafee/Documents/Python/shout.py",
+				"/home/rafee/Documents/Python/server.py",
+				"/home/rafee/Downloads/Telegram Desktop/forwardInterpolation.py",
+				"/home/rafee/Documents/OS Lab/bankersAlgo.cpp",
+				"/home/rafee/Documents/OS Lab/PR.cpp",
+				"/home/rafee/Documents/OS Lab/RR.cpp",
+				"/home/rafee/Documents/Java/practice.java",
+				"/home/rafee/Documents/OS Lab/FIFO.cpp",
+				"/home/rafee/Documents/OS Lab/Optimal.cpp",
+				"/home/rafee/Documents/OS Lab/LRU.cpp",
+				"/home/rafee/Documents/OS Lab/SJF.cpp",
+				"/home/rafee/Downloads/Telegram Desktop/3rd Year 1st Semester/OOP_Java/OOP_Concept/src/main/java/com/shajib/oop_concept/InterfaceEx.java",
+				"/home/rafee/Documents/OS Lab/bankers.cpp",
+				"/home/rafee/Documents/Web Practice/JS/Lab Final/avg.js",
+				"/home/rafee/Documents/Web Practice/JS/Lab Final/formatter.js",
+				"/home/rafee/Documents/Web Practice/JS/Lab Final/quickSort.js",
+				"/home/rafee/Downloads/Telegram Desktop/3rd Year 1st Semester/OOP_Java/OOP/src/main/java/com/shajib/oop/OOP.java",
+				"/home/rafee/Documents/OS Lab/FCFS_1.c",
+				"/home/rafee/Documents/OS Lab/sjf.cpp",
+				"/home/rafee/Documents/OS Lab/FCFS.cpp",
+				"/home/rafee/Documents/Web Practice/JS/for_loop.js",
+				"/home/rafee/.config/sublime-text/Packages/User/hello-snippet.sublime-snippet",
+				"/home/rafee/Documents/ct.xsd",
+				"/home/rafee/Documents/ct.xml",
+				"/opt/lampp/htdocs/index.php",
+				"/home/rafee/Documents/Java/javaFX/PassKeep/src/passkeep/Main.java",
+				"/home/rafee/Documents/Java/javaFX/qalkulator/src/main/java/com/rafee/DatabaseHandler.java",
+				"/home/rafee/Documents/Web Practice/JSON/3.json",
+				"/home/rafee/Documents/Java/javaFX/ui_with_stored_procedure/src/main/java/com/rafee/Main.java",
+				"/home/rafee/Documents/newton.py",
+				"/home/rafee/Desktop/web ct/PHP Lab Sample/index.php",
+				"/home/rafee/Documents/Java/javaFX/BroCode/hellofx/src/main/java/com/rafee/Main.java",
+				"/home/rafee/Documents/Java/demo/src/main/java/com/example/App.java",
+				"/home/rafee/Documents/Java/mssqltestconnect/src/main/java/com/rafee/Database.java",
+				"/home/rafee/Documents/Web Practice/XML/3.xml",
+				"/home/rafee/Documents/Web Practice/XML/2.xml",
+				"/home/rafee/Documents/Web Practice/XML/1.xsd",
+				"/home/rafee/Documents/Web Practice/XML/1.xml",
+				"/home/rafee/Documents/Web Practice/XML/XML_assignment1.xml",
+				"/home/rafee/Documents/Python/client.py",
+				"/home/rafee/Documents/web",
+				"/home/rafee/Downloads/Match.json",
+				"/home/rafee/Documents/Python/sockets.py",
+				"/home/rafee/Documents/Python/socket.py",
+				"/home/rafee/Documents/SW Lab/adapter.java",
+				"/home/rafee/Documents/SW Lab/bridge.java",
+				"/home/rafee/Documents/SW Lab/facade.java",
+				"/home/rafee/Documents/SW Lab/composite.java",
+				"/home/rafee/Documents/SW Lab/flyweight.java",
+				"/home/rafee/Documents/SW Lab/proxy.java",
+				"/home/rafee/Documents/SW Lab/flyweight",
+				"/home/rafee/Documents/Java/bridge.java",
+				"/home/rafee/Documents/Java/Main.java",
+				"/home/rafee/Documents/Java/loginApp/LoginApp.java",
+				"/home/rafee/Documents/Java/Main.class",
+				"/home/rafee/Documents/Java/GeanyTrial/Main.java",
+				"/home/rafee/Documents/Java/GeanyTrial/User.java",
+				"/home/rafee/Documents/Java/GeanyTrial/New.java",
+				"/home/rafee/Documents/Java/Four.java",
+				"/home/rafee/Documents/Python/rockPaperScissors.py",
+				"/home/rafee/Documents/Python/guessingGame1.py",
+				"/home/rafee/Documents/Python/reverseWordOrder.py",
+				"/home/rafee/Documents/Python/passwordGenerator.py",
+				"/home/rafee/Documents/Python/guessingGame2.py",
+				"/home/rafee/Downloads/Telegram Desktop/DS Lab All Codes__Spring24-25/Final Term Codes/Singly__LinkedList__Insertion__Deletion.cpp",
+				"/home/rafee/Documents/DSA_Rasel.cpp",
+				"/home/rafee/Downloads/Telegram Desktop/DS Lab All Codes__Spring24-25/Final Term Codes/InfixToPrefix.cpp",
+				"/home/rafee/Documents/Rasel.cpp",
+				"/home/rafee/Downloads/Telegram Desktop/DS Lab All Codes__Spring24-25/Final Term Codes/AdjMatrixUndirectedGraph.cpp",
+				"/home/rafee/Documents/img.py",
+				"/home/rafee/.config/rofi/powermenu.rasi",
+				"/home/rafee/Downloads/ctf_challenge_files/run.sh",
+				"/home/rafee/Documents/img.python",
+				"/home/rafee/Documents/Website/index.html",
+				"/home/rafee/Documents/Website/index.js",
+				"/home/rafee/Documents/HTML/form.html",
+				"/home/rafee/Documents/HTML/CV.html",
+				"/home/rafee/Documents/Website/style.css",
+				"/home/rafee/Documents/argon-icon-theme-1.11.0/scripts/symlink-tool.py",
+				"/home/rafee/Documents/HTML/New Folder/form.html",
+				"/home/rafee/Documents/HTML/New Folder/index.html",
+				"/home/rafee/Documents/HTML/lab1.html",
+				"/home/rafee/Documents/HTML/stat.htm",
+				"/home/rafee/Documents/HTML/stat_style.css",
+				"/home/rafee/Documents/HTML/CE22003/heli.html",
+				"/home/rafee/Documents/HTML/animate1.html",
+				"/home/rafee/Documents/HTML/animate3.css",
+				"/home/rafee/Documents/HTML/animate2.css",
+				"/home/rafee/Documents/HTML/heli.html",
+				"/home/rafee/Documents/HTML/animate1.css",
+				"/home/rafee/Documents/HTML/traffic.html",
+				"/home/rafee/Documents/SW Lab/HW1.java",
+				"/home/rafee/Documents/SW Lab/Lab1.java",
+				"/home/rafee/Documents/SW Lab/AbstractFact.java",
+				"/home/rafee/Documents/HTML/index2.html",
+				"/home/rafee/Documents/HTML/styles.css",
+				"/home/rafee/Documents/HTML/form2.html",
+				"/home/rafee/Documents/HTML/table.html",
+				"/home/rafee/.config/polybar/config.ini",
+				"/home/rafee/Documents/assignment.cpp",
+				"/home/rafee/Documents/HTML/cv.html",
+				"/home/rafee/Documents/HTML/index.html",
+				"/home/rafee/Documents/HTML/about.html",
+				"/home/rafee/Documents/HTML/skills.html",
+				"/home/rafee/Documents/HTML/projects.html",
+				"/home/rafee/Documents/HTML/experience.html",
+				"/home/rafee/Documents/HTML/education.html",
+				"/home/rafee/Downloads/xor/encryption.py",
+				"/home/rafee/.mozilla/firefox/1ufva9xr.default-release/user.js",
+				"/home/rafee/Downloads/Zero Hidden Knight/pass.txt",
+				"/home/rafee/Downloads/stego_text.txt",
+				"/home/rafee/Downloads/prac.py",
+				"/home/rafee/Documents/Java/One.java",
+				"/home/rafee/Documents/Java/Two.java",
+				"/home/rafee/Documents/one.java",
+				"/home/rafee/.config/sublime-text/Packages/User/Python - Terminus.sublime-build",
+				"/home/rafee/.config/sublime-text/Packages/User/Java.sublime-build",
+				"/home/rafee/Documents/HTML/1.html",
+				"/home/rafee/Downloads/jpg_repair.py",
+				"/home/rafee/Downloads/advanced-potion-making",
+				"/home/rafee/Downloads/fixme1/src/main.rs",
+				"/home/rafee/Downloads/flag.sh",
+				"/home/rafee/Downloads/Flag.pdf"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"String",
+					"playerChoice",
+					"int"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1705,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"auto_indent": false,
+									"gutter": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"tab_width": 2,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/rafee/Documents/CS Primer/server-TCP.py",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 302,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										118,
+										118
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 173.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/rafee/Documents/CS Primer/server-UDP.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 289,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.LiveServerPlus":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.Terminus":
+			{
+				"height": 165.0,
+				"history":
+				[
+				]
+			},
+			"output.Terminus 2":
+			{
+				"height": 186.0,
+				"history":
+				[
+				]
+			},
+			"output.Terminus 3":
+			{
+				"height": 186.0,
+				"history":
+				[
+				]
+			},
+			"output.Terminus 4":
+			{
+				"height": 186.0
+			},
+			"output.Terminus 5":
+			{
+				"height": 186.0
+			},
+			"output.exec":
+			{
+				"height": 186.0,
+				"history":
+				[
+					"a"
+				]
+			},
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,685,35,1360,737,1366,768,0",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 36,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

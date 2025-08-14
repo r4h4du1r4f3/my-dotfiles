@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Open Terminal Here</name>
+	<submenu></submenu>
+	<unique-id>1742128186881176-1</unique-id>
+	<command>exo-open --working-directory %f --launch TerminalEmulator</command>
+	<description>Example for a custom action</description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon>sublime-text</icon>
+	<name>Open with Sublime</name>
+	<submenu></submenu>
+	<unique-id>1745804866298247-1</unique-id>
+	<command>subl .</command>
+	<description>Opens with Sublime Text</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon>visual-studio-code</icon>
+	<name>Open with VSCode</name>
+	<submenu></submenu>
+	<unique-id>1745804988986622-2</unique-id>
+	<command>code .</command>
+	<description>Opens with VSCode</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+</actions>

@@ -1,0 +1,15 @@
+{
+	"ignored_packages":
+	[
+		"Rust",
+		"Vintage",
+	],
+	"font_size": 15,
+	"theme": "auto",
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"index_files": false,
+
+	"save_on_focus_lost": true,
+	"save_on_modified": true,
+
+}

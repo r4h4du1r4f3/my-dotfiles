@@ -1,0 +1,14 @@
+[
+	{ "keys": ["ctrl+alt+s"], "command": "auto_save" },
+	{
+	  "keys": ["ctrl+shift+alt+t"], // or any shortcut you like
+	  "command": "terminus_open",
+	  "args": {
+	    "cwd": "${file_path:${folder}}",
+	    "panel_name": "Terminus",
+	
+	    "cmd": ["zsh", "-c", "exec zsh"]
+	  }
+	}
+
+]

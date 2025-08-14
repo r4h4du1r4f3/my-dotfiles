@@ -1,0 +1,7 @@
+{
+    "target": "terminus_open",
+    "cmd": ["python3", "-u", "$file"],
+    "cwd": "${file_path}",
+    "panel_name": "Terminus",
+    "auto_close": false
+}

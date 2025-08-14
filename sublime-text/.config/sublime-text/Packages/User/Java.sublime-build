@@ -1,0 +1,7 @@
+{
+    "target": "terminus_open",
+    "cmd": ["bash", "-c", "javac \"$file\" && java -cp \"$file_path\" ${file_base_name}"],
+    "cwd": "${file_path}",
+    "panel_name": "Terminus",
+    "auto_close": false
+}

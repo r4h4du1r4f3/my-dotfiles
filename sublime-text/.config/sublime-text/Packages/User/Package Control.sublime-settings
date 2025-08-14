@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"auto-save",
+		"JavaScript Completions",
+		"JavaScript Enhancements",
+		"LiveServerPlus",
+		"LSP-clangd",
+		"Monokai++",
+		"Package Control",
+		"Rust Enhanced",
+		"Terminus",
+	],
+}
