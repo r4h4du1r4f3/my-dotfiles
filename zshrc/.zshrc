@@ -79,6 +79,7 @@ zstyle ':fzf-tab:complete:__zoxide_z:*' fzf-preview 'ls --color $realpath'
 alias ls='ls --color'
 alias n='nvim'
 alias c='clear'
+alias yayf='yay -Slq | fzf --preview "yay -Si {}" --height=90% --layout=reverse --bind "enter:execute(yay -Si {} | less)"'
 
 # Shell integrations
 eval "$(fzf --zsh)"
