@@ -1,6 +1,10 @@
 {
 	"file_history":
 	[
+		"/home/rafee/dotfiles/qBittorrent/.config/qBittorrent/categories.json",
+		"/home/rafee/dotfiles/qBittorrent/.config/qBittorrent/lockfile",
+		"/home/rafee/dotfiles/qBittorrent/.config/qBittorrent/ipc-socket",
+		"/home/rafee/dotfiles/qBittorrent/.config/qBittorrent/watched_folders.json",
 		"/home/rafee/Downloads/s085j3gmh9/package.json",
 		"/mnt/F/Wallpapers/randomwallpaper@iflow.space/8rfb5cdrrdwd1.png.json",
 		"/mnt/D/LINUX_BACKUP/Downloads/zoom_window.py",
@@ -124,14 +128,11 @@
 		"/home/rafee/Documents/HTML/index.html",
 		"/home/rafee/Documents/HTML/about.html",
 		"/home/rafee/Documents/HTML/skills.html",
-		"/home/rafee/Documents/HTML/projects.html",
-		"/home/rafee/Documents/HTML/experience.html",
-		"/home/rafee/Documents/HTML/education.html",
-		"/home/rafee/Downloads/xor/encryption.py",
-		"/home/rafee/.mozilla/firefox/1ufva9xr.default-release/user.js"
+		"/home/rafee/Documents/HTML/projects.html"
 	],
 	"folder_history":
 	[
+		"/home/rafee/dotfiles/qBittorrent/.config/qBittorrent/rss",
 		"/home/rafee/Documents/Java/GeanyTrail",
 		"/home/rafee/Documents/Java/GeanyTrial",
 		"/home/rafee/Documents/Website",
@@ -143,16 +144,16 @@
 	"last_version": 4200,
 	"last_window_id": 42,
 	"log_indexing": false,
-	"next_update_check": 1754974567,
+	"next_update_check": 1756404679,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 0.0,
+		"new_window_height": 711.0,
 		"new_window_maximized": true,
 		"new_window_position":
 		[
 			686.0,
-			64.0
+			57.0
 		],
 		"new_window_settings":
 		{
@@ -710,6 +711,10 @@
 			[
 				"/home/rafee/Documents/CS Primer/server-UDP.py",
 				"/home/rafee/Documents/CS Primer/server-TCP.py",
+				"/home/rafee/dotfiles/qBittorrent/.config/qBittorrent/categories.json",
+				"/home/rafee/dotfiles/qBittorrent/.config/qBittorrent/lockfile",
+				"/home/rafee/dotfiles/qBittorrent/.config/qBittorrent/ipc-socket",
+				"/home/rafee/dotfiles/qBittorrent/.config/qBittorrent/watched_folders.json",
 				"/home/rafee/Downloads/s085j3gmh9/package.json",
 				"/mnt/F/Wallpapers/randomwallpaper@iflow.space/8rfb5cdrrdwd1.png.json",
 				"/mnt/D/LINUX_BACKUP/Downloads/zoom_window.py",
@@ -831,11 +836,7 @@
 				"/home/rafee/Documents/Java/Two.java",
 				"/home/rafee/Documents/one.java",
 				"/home/rafee/.config/sublime-text/Packages/User/Python - Terminus.sublime-build",
-				"/home/rafee/.config/sublime-text/Packages/User/Java.sublime-build",
-				"/home/rafee/Documents/HTML/1.html",
-				"/home/rafee/Downloads/jpg_repair.py",
-				"/home/rafee/Downloads/advanced-potion-making",
-				"/home/rafee/Downloads/fixme1/src/main.rs"
+				"/home/rafee/.config/sublime-text/Packages/User/Java.sublime-build"
 			],
 			"find":
 			{
@@ -975,7 +976,7 @@
 			{
 			}
 		},
-		"new_window_width": 0.0
+		"new_window_width": 677.0
 	},
 	"windows":
 	[
@@ -1065,31 +1066,18 @@
 			"buffers":
 			[
 				{
-					"contents": "Package Control Messages\n========================\n\n\nPackage Control\n---------------\n\n  Version 4.2.0 Release Notes\n  ===========================\n  \n  IMPORTANT NOTICE!\n  \n    This is the last version with support for ST3.\n  \n  NEW DEFAULT CHANNEL\n  \n    Package Control is using the following new default channel by default:\n  \n          https://packages.sublimetext.io/channel.json\n  \n    Any request to https://packagecontrol.io/channel_v3.json is redirected.\n  \n    To discover packages online, visit\n  \n          https://packages.sublimetext.io\n  \n    New packages and libraries are published daily at 0:00 UTC.\n  \n    Dedicated libraries channel is still available, but its content is merged\n    into new default channel and thus doesn't need to be specified explicitly.\n  \n    This change is required as packagecontrol.io is more or less unmaintained\n    for several years, didn't even receive related Package Control 4 updates,\n    suffered various even long lasting outages and its infrastructure seems to\n    struggle with current amount of packages and data needed to be managed,\n    which results in packages frequently not being available for install or\n    upgrade. As current community doesn't have access to its infrastructure.\n  \n    The new crawler works way more efficient and uses a more intelligent\n    caching strategy to reduce network bandwidth. Full downloads are only\n    made if packages or libraries have been added or modified really changed.\n  \n    There's still some work to do to consolidate new infrastructure,\n    which this change is a first and important step, for.\n  \n    The new crawler and website are maintained under:\n  \n          https://github.com/packagecontrol\n",
-					"settings":
-					{
-						"buffer_size": 1705,
-						"line_ending": "Unix",
-						"name": "Package Control Messages",
-						"read_only": true,
-						"scratch": true
-					},
-					"undo_stack":
+					"file": "/home/rafee/Documents/CS Primer/server-TCP.py",
+					"redo_stack":
 					[
 						[
-							3,
 							1,
-							"insert",
-							{
-								"characters": "Package Control Messages\n========================\n\n\nPackage Control\n---------------\n\n  Version 4.2.0 Release Notes\n  ===========================\n  \n  IMPORTANT NOTICE!\n  \n    This is the last version with support for ST3.\n  \n  NEW DEFAULT CHANNEL\n  \n    Package Control is using the following new default channel by default:\n  \n          https://packages.sublimetext.io/channel.json\n  \n    Any request to https://packagecontrol.io/channel_v3.json is redirected.\n  \n    To discover packages online, visit\n  \n          https://packages.sublimetext.io\n  \n    New packages and libraries are published daily at 0:00 UTC.\n  \n    Dedicated libraries channel is still available, but its content is merged\n    into new default channel and thus doesn't need to be specified explicitly.\n  \n    This change is required as packagecontrol.io is more or less unmaintained\n    for several years, didn't even receive related Package Control 4 updates,\n    suffered various even long lasting outages and its infrastructure seems to\n    struggle with current amount of packages and data needed to be managed,\n    which results in packages frequently not being available for install or\n    upgrade. As current community doesn't have access to its infrastructure.\n  \n    The new crawler works way more efficient and uses a more intelligent\n    caching strategy to reduce network bandwidth. Full downloads are only\n    made if packages or libraries have been added or modified really changed.\n  \n    There's still some work to do to consolidate new infrastructure,\n    which this change is a first and important step, for.\n  \n    The new crawler and website are maintained under:\n  \n          https://github.com/packagecontrol\n"
-							},
-							"XQAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAFMAAAAAAAAAAAAAAFMAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABVAAAAAAAAAAAAAABVAAAAAAAAAHIAAAAAAAAAAAAAAHIAAAAAAAAAcwAAAAAAAAAAAAAAcwAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJEAAAAAAAAAAAAAAJEAAAAAAAAAkwAAAAAAAAAAAAAAkwAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAKcAAAAAAAAAAAAAAKcAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACqAAAAAAAAAAAAAACqAAAAAAAAAKsAAAAAAAAAAAAAAKsAAAAAAAAA3QAAAAAAAAAAAAAA3QAAAAAAAADeAAAAAAAAAAAAAADeAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA4QAAAAAAAAAAAAAA4QAAAAAAAAD2AAAAAAAAAAAAAAD2AAAAAAAAAPcAAAAAAAAAAAAAAPcAAAAAAAAA+QAAAAAAAAAAAAAA+QAAAAAAAAD6AAAAAAAAAAAAAAD6AAAAAAAAAEQBAAAAAAAAAAAAAEQBAAAAAAAARQEAAAAAAAAAAAAARQEAAAAAAABHAQAAAAAAAAAAAABHAQAAAAAAAEgBAAAAAAAAAAAAAEgBAAAAAAAAfgEAAAAAAAAAAAAAfgEAAAAAAAB/AQAAAAAAAAAAAAB/AQAAAAAAAIEBAAAAAAAAAAAAAIEBAAAAAAAAggEAAAAAAAAAAAAAggEAAAAAAADNAQAAAAAAAAAAAADNAQAAAAAAAM4BAAAAAAAAAAAAAM4BAAAAAAAA0AEAAAAAAAAAAAAA0AEAAAAAAADRAQAAAAAAAAAAAADRAQAAAAAAAPcBAAAAAAAAAAAAAPcBAAAAAAAA+AEAAAAAAAAAAAAA+AEAAAAAAAD6AQAAAAAAAAAAAAD6AQAAAAAAAPsBAAAAAAAAAAAAAPsBAAAAAAAAJAIAAAAAAAAAAAAAJAIAAAAAAAAlAgAAAAAAAAAAAAAlAgAAAAAAACcCAAAAAAAAAAAAACcCAAAAAAAAKAIAAAAAAAAAAAAAKAIAAAAAAABnAgAAAAAAAAAAAABnAgAAAAAAAGgCAAAAAAAAAAAAAGgCAAAAAAAAagIAAAAAAAAAAAAAagIAAAAAAABrAgAAAAAAAAAAAABrAgAAAAAAALgCAAAAAAAAAAAAALgCAAAAAAAAuQIAAAAAAAAAAAAAuQIAAAAAAAAHAwAAAAAAAAAAAAAHAwAAAAAAAAgDAAAAAAAAAAAAAAgDAAAAAAAACgMAAAAAAAAAAAAACgMAAAAAAAALAwAAAAAAAAAAAAALAwAAAAAAAFgDAAAAAAAAAAAAAFgDAAAAAAAAWQMAAAAAAAAAAAAAWQMAAAAAAACmAwAAAAAAAAAAAACmAwAAAAAAAKcDAAAAAAAAAAAAAKcDAAAAAAAA9QMAAAAAAAAAAAAA9QMAAAAAAAD2AwAAAAAAAAAAAAD2AwAAAAAAAEEEAAAAAAAAAAAAAEEEAAAAAAAAQgQAAAAAAAAAAAAAQgQAAAAAAACNBAAAAAAAAAAAAACNBAAAAAAAAI4EAAAAAAAAAAAAAI4EAAAAAAAA2gQAAAAAAAAAAAAA2gQAAAAAAADbBAAAAAAAAAAAAADbBAAAAAAAAN0EAAAAAAAAAAAAAN0EAAAAAAAA3gQAAAAAAAAAAAAA3gQAAAAAAAAmBQAAAAAAAAAAAAAmBQAAAAAAACcFAAAAAAAAAAAAACcFAAAAAAAAcAUAAAAAAAAAAAAAcAUAAAAAAABxBQAAAAAAAAAAAABxBQAAAAAAAL4FAAAAAAAAAAAAAL4FAAAAAAAAvwUAAAAAAAAAAAAAvwUAAAAAAADBBQAAAAAAAAAAAADBBQAAAAAAAMIFAAAAAAAAAAAAAMIFAAAAAAAABgYAAAAAAAAAAAAABgYAAAAAAAAHBgAAAAAAAAAAAAAHBgAAAAAAAEAGAAAAAAAAAAAAAEAGAAAAAAAAQQYAAAAAAAAAAAAAQQYAAAAAAABDBgAAAAAAAAAAAABDBgAAAAAAAEQGAAAAAAAAAAAAAEQGAAAAAAAAeQYAAAAAAAAAAAAAeQYAAAAAAAB6BgAAAAAAAAAAAAB6BgAAAAAAAHwGAAAAAAAAAAAAAHwGAAAAAAAAfQYAAAAAAAAAAAAAfQYAAAAAAACoBgAAAAAAAAAAAACoBgAAAAAAAKkGAAAAAAAAAAAAAA",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+							1,
+							"left_delete",
+							null,
+							"AQAAAHUAAAAAAAAAdgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdQAAAAAAAAB1AAAAAAAAAAAAAAAAAPC/"
 						]
-					]
-				},
-				{
-					"file": "/home/rafee/Documents/CS Primer/server-TCP.py",
+					],
 					"settings":
 					{
 						"buffer_size": 302,
@@ -1574,8 +1562,16 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/home/rafee/dotfiles/qBittorrent/.config/qBittorrent/rss"
+			],
 			"file_history":
 			[
+				"/home/rafee/dotfiles/qBittorrent/.config/qBittorrent/categories.json",
+				"/home/rafee/dotfiles/qBittorrent/.config/qBittorrent/lockfile",
+				"/home/rafee/dotfiles/qBittorrent/.config/qBittorrent/ipc-socket",
+				"/home/rafee/dotfiles/qBittorrent/.config/qBittorrent/watched_folders.json",
 				"/home/rafee/Downloads/s085j3gmh9/package.json",
 				"/mnt/F/Wallpapers/randomwallpaper@iflow.space/8rfb5cdrrdwd1.png.json",
 				"/mnt/D/LINUX_BACKUP/Downloads/zoom_window.py",
@@ -1699,11 +1695,7 @@
 				"/home/rafee/.config/sublime-text/Packages/User/Python - Terminus.sublime-build",
 				"/home/rafee/.config/sublime-text/Packages/User/Java.sublime-build",
 				"/home/rafee/Documents/HTML/1.html",
-				"/home/rafee/Downloads/jpg_repair.py",
-				"/home/rafee/Downloads/advanced-potion-making",
-				"/home/rafee/Downloads/fixme1/src/main.rs",
-				"/home/rafee/Downloads/flag.sh",
-				"/home/rafee/Downloads/Flag.pdf"
+				"/home/rafee/Downloads/jpg_repair.py"
 			],
 			"find":
 			{
@@ -1740,6 +1732,12 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/home/rafee/dotfiles/qBittorrent/.config/qBittorrent/rss"
+				}
+			],
 			"groups":
 			[
 				{
@@ -1747,41 +1745,6 @@
 					[
 						{
 							"buffer": 0,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1705,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"auto_indent": false,
-									"gutter": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 2,
-									"tab_width": 2,
-									"translate_tabs_to_spaces": true,
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
 							"file": "/home/rafee/Documents/CS Primer/server-TCP.py",
 							"selected": true,
 							"semi_transient": false,
@@ -1813,7 +1776,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 2,
+							"buffer": 1,
 							"file": "/home/rafee/Documents/CS Primer/server-UDP.py",
 							"semi_transient": false,
 							"settings":
@@ -1839,7 +1802,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 1,
 							"stack_multiselect": false,
 							"type": "text"
 						}
@@ -1929,7 +1892,7 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,685,35,1360,737,1366,768,0",
+			"position": "0,1,0,0,0,685,28,1362,739,1366,768,0",
 			"project": "",
 			"replace":
 			{

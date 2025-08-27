@@ -1,3 +1,4 @@
 *.log
 qBittorrent/.config/qBittorrent/qBittorrent.conf
 qBittorrent/.config/qBittorrent/qBittorrent-data.conf
+mpv/.config/mpv/subtitles
