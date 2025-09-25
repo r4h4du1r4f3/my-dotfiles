@@ -4,12 +4,13 @@
 		"Rust",
 		"Vintage",
 	],
-	"font_size": 15,
-	"theme": "auto",
+	"font_size": 14,
+	"theme": "Adaptive.sublime-theme",
 	"color_scheme": "Monokai.sublime-color-scheme",
 	"index_files": false,
 
 	"save_on_focus_lost": true,
 	"save_on_modified": true,
 
+	"font_face": "BlexMono Nerd Font",
 }

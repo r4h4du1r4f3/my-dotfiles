@@ -208,8 +208,8 @@ bindsym $mod+Shift+r restart
 #bindsym XF86MonBrightnessUp exec --no-startup-id xbacklight +10 && notify-send "Brightness - $(xbacklight -get | cut -d '.' -f 1)%"
 #bindsym XF86MonBrightnessDown exec --no-startup-id xbacklight -10 && notify-send "Brightness - $(xbacklight -get | cut -d '.' -f 1)%"
 # Backlight setting using dunst osc
-bindsym $mod+Shift+i exec --no-startup-id brightnessctl set +5%
-bindsym $mod+Shift+u exec --no-startup-id brightnessctl set 5%-
+bindsym $mod+Shift+i exec --no-startup-id brightnessctl set +2%
+bindsym $mod+Shift+u exec --no-startup-id brightnessctl set 2%-
 
 # change focus
 bindsym $mod+j focus left
@@ -290,7 +290,7 @@ bindsym XF86AudioNext exec --no-startup-id playerctl next
 bindsym XF86AudioPrev exec --no-startup-id playerctl previous
 
 # Redirect sound to headphones
-bindsym $mod+p exec --no-startup-id /usr/local/bin/switch-audio-port
+# bindsym $mod+p exec --no-startup-id /usr/local/bin/switch-audio-port
 
 ## App shortcuts
 bindsym $mod+w exec --no-startup-id /usr/bin/firefox
@@ -484,7 +484,7 @@ for_window [window_role="About"] floating enable
 
 for_window [class="Telegram" instance="Telegram"] floating enable
 
-for_window [class="com.rafee.Main" instance="com.rafee.Main"] floating enable
+for_window [class="vicinae" instance="vicinae"] floating enable, move position center
 
 # set border of floating window
 for_window [class="urxvt"] border pixel 1
@@ -638,7 +638,7 @@ client.background        $base
 
 ## rofi bindings fancy application menu ($mod+d /F9 optional disabled)
 
-bindsym $mod+d exec --no-startup-id rofi -modi drun -show drun
+# bindsym $mod+d exec --no-startup-id rofi -modi drun -show drun
 
 #bindsym F9 exec --no-startup-id rofi -modi drun -show drun \
 #		-config ~/.config/rofi/rofidmenu.rasi
@@ -672,6 +672,18 @@ exec --no-startup-id qbittorrent
 # exec --no-startup-id variety
 # exec --no-startup-id zsh -c "sleep 7 && variety -n"
 
-exec_always --no-startup-id ~/.config/i3/scripts/wallpaper_slideshow.sh
+exec --no-startup-id ~/.config/i3/scripts/wallpaper_slideshow.sh
 
 exec --no-startup-id kdeconnectd
+
+exec --no-startup-id zsh -c "vicinae server"
+
+bindsym $mod+d exec --no-startup-id vicinae
+
+bindsym $mod+Next exec --no-startup-id zsh -c "echo next > ~/.feh_wallpaper_control"
+bindsym $mod+Prior exec --no-startup-id zsh -c "echo prev> ~/.feh_wallpaper_control"
+
+bindsym $mod+x exec --no-startup-id zsh -c "warp-cli connect" 
+bindsym $mod+y exec --no-startup-id zsh -c "warp-cli disconnect" 
+
+bindsym $mod+p exec --no-startup-id zsh -c "systemctl start emby-server"

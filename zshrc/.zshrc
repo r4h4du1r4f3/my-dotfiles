@@ -80,6 +80,8 @@ alias ls='ls --color'
 alias n='nvim'
 alias c='clear'
 alias yayf='yay -Slq | fzf --preview "yay -Si {}" --height=90% --layout=reverse --bind "enter:execute(yay -Si {} | less)"'
+alias mbystr='sudo systemctl start emby-server'
+alias mbystp='sudo systemctl stop emby-server'
 
 # Shell integrations
 eval "$(fzf --zsh)"
